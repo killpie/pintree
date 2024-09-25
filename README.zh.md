@@ -14,7 +14,7 @@ Pintree 是一个开源项目，旨在将浏览器书签导出成导航网站。
 
 ## 安装和运行
 
-### 步骤 1：下载浏览器书签
+### 步骤 1：下载浏览器书签1
 
 1. 安装 [Pintree Bookmarks Exporter](https://chromewebstore.google.com/detail/pintree-bookmarks-exporte/mjcglnkikjidokobpfdcdmcnfdicojce) 插件。
 2. 使用插件导出浏览器书签，并保存 JSON 文件到本地。
